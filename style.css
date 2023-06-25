@@ -1,13 +1,8 @@
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
 
-a {
-  color: orange;
-}
-
-a:hover {
-  color: black;
-}
-/*# sourceMappingURL=style.css.map */
+#demo h1 {
+  color: red;
+}/*# sourceMappingURL=style.css.map */
